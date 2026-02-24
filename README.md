@@ -10,7 +10,10 @@
 
 📂 **Projects & Learning:**  
 - 🕵️ [Network Packet Sniffer](https://github.com/Syed-Alii/Network-Packet-Sniffer.git)  
-- ⌨️ [Keylogger Simulation](https://github.com/Syed-Alii/Keylogger-Simulation.git)  
+- ⌨️ [Keylogger Simulation](https://github.com/Syed-Alii/Keylogger-Simulation.git)
+- ⌨️ [LOST DATA RETRIEVAL](https://github.com/Syedaliaarib/LOST-DATA-RETRIEVAL.git)  
+
+
 
 🚀 **About Me:**  
 - Always learning by building hands-on projects  
@@ -19,3 +22,4 @@
 
 📫 **Connect with me:**  
 - LinkedIn: [Ali Aarib](https://www.linkedin.com/in/syed-ali-aarib-4670a538a/)  
+
