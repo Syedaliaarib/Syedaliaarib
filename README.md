@@ -38,7 +38,7 @@
 
 - ✅ Cisco Certified Network Associate (CCNA)  
 - ✅ SOC Analyst (L1 Training)  
-- 🟡 Certified Ethical Hacker (CEH) – Under Training  
+- 🟡 Certified Ethical Hacker (CEH) 
 
 🚀 About Me
 
@@ -50,6 +50,5 @@
 📫 Connect With Me
 
 🔗 LinkedIn:  
-https://www.linkedin.com/in/syed-ali-aarib-4670a538a/
-
+https://www.linkedin.com/in/ali-aarib-4670a538a/
 ⭐ Open to Cybersecurity Internship & Entry-Level SOC Opportunities
