@@ -1,8 +1,7 @@
 👋 Hi, I'm Ali Aarib  
 
 🔐 Cybersecurity & Networking Enthusiast  
-🎓 CCNA Certified | SOC L1 Trained | CEH Certified | Cyberops Certified
-🎯 Aspiring SOC Analyst | Focused on web penetration testing.
+🎓 CCNA Certified | SOC L1 Trained | CEH Certified | Cyberops Certified | Focused on web penetration testing.
 
 
 💻 Technical Skills & Tools
