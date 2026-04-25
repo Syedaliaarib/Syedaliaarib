@@ -1,8 +1,8 @@
 👋 Hi, I'm Ali Aarib  
 
 🔐 Cybersecurity & Networking Enthusiast  
-🎓 CCNA Certified | SOC L1 Trained | CEH (Under Training)  
-🎯 Aspiring SOC Analyst |  
+🎓 CCNA Certified | SOC L1 Trained | CEH Certified | Cyberops Certified
+🎯 Aspiring SOC Analyst | Focused on web penetration testing.
 
 
 💻 Technical Skills & Tools
@@ -38,7 +38,8 @@
 
 - ✅ Cisco Certified Network Associate (CCNA)  
 - ✅ SOC Analyst (L1 Training)  
-- 🟡 Certified Ethical Hacker (CEH) 
+- 🟡 Certified Ethical Hacker (CEH)
+- 🟡 Certified CyberOps
 
 🚀 About Me
 
